@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Panchayats4",
+  title: "Panchayat S4",
   description:
     "Watch Panchayat Season 4 on Prime Video as village politics heats up in Phulera. Manju Devi and Kranti Devi clash in the panchayat elections while Sachiv Ji gets caught in the chaos. A perfect mix of humor, drama, and rural charm.",
 };

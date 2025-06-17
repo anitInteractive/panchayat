@@ -58,3 +58,10 @@ a {
   object-position: center center;
   z-index: 1;
 }
+
+@media (max-width: 768px) {
+  .BGText h2 {
+    top: 56%;
+    font-size: 1rem;
+  }
+}

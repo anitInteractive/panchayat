@@ -1,4 +1,3 @@
-import TermsAndConditions from "./components/termsConditions";
 import Image from "next/image";
 import img1 from "@/app/assets/AA1GuwUc.webp";
 

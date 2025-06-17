@@ -15,7 +15,23 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Panchayat S4",
   description:
-    "Watch Panchayat Season 4 on Prime Video as village politics heats up in Phulera. Manju Devi and Kranti Devi clash in the panchayat elections while Sachiv Ji gets caught in the chaos. A perfect mix of humor, drama, and rural charm.",
+    "Watch Panchayat Season 4 on Prime Video as village politics heats up in Phulera. Manju Devi and Kranti Devi clash while Sachiv Ji gets caught in the chaos.",
+  openGraph: {
+    title: "Panchayat S4",
+    description:
+      "Watch Panchayat Season 4 on Prime Video as village politics heats up in Phulera. A mix of humor, drama, and rural politics!",
+    url: "https://panchayats4.com/",
+    siteName: "Prime Series",
+    images: [
+      {
+        url: "https://panchayats4.com/assets/AA1GuwUc.webp", // Replace with your actual image URL
+        width: 1200,
+        height: 630,
+        alt: "Panchayat S4 Cover",
+      },
+    ],
+    type: "website",
+  },
 };
 
 export default function RootLayout({

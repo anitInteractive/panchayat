@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     siteName: "Prime Series",
     images: [
       {
-        url: "https://panchayats4.com/assets/AA1GuwUc.webp", // Replace with your actual image URL
+        url: "https://panchayats4.com/images/AA1GuwUc.webp", // Replace with your actual image URL
         width: 1200,
         height: 630,
         alt: "Panchayat S4 Cover",

@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="BGText">
       <Image src={img1} width={1200} height={900} alt="" />
-      <h2>Comming Soon</h2>
+      <h2>Coming Soon</h2>
     </div>
   );
 }

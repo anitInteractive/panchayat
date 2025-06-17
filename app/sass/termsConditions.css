@@ -1,0 +1,37 @@
+.container {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+h1 {
+  /* color: #0066c0; */
+  text-align: center;
+  /* border-bottom: 1px solid #ddd; */
+  padding-bottom: 10px;
+}
+h2 {
+  /* color: #0066c0; */
+  margin-top: 30px;
+  /* border-bottom: 1px solid #eee; */
+  padding-bottom: 5px;
+}
+.section {
+  margin-bottom: 30px;
+}
+.highlight {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+.underline {
+  text-decoration: underline;
+}
+.terms-list {
+  padding-left: 20px;
+}
+.terms-list li {
+  margin-bottom: 10px;
+}

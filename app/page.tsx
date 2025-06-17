@@ -1,9 +1,9 @@
-import TermsTermsConditions from "./components/termsConditions";
+import TermsAndConditions from "./components/termsConditions";
 
 export default function Home() {
   return (
     <div>
-      <TermsTermsConditions />
+      <TermsAndConditions />
     </div>
   );
 }

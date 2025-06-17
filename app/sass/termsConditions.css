@@ -4,11 +4,14 @@
   margin: 0;
   padding: 20px 50px;
   color: #333;
+}
 
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
+  .container {
     padding: 20px;
   }
 }
+
 h1 {
   /* color: #0066c0; */
   text-align: center;
